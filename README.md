@@ -1,21 +1,24 @@
-Commit ke-1: Endless adalah ekosistem yang selalu berkembang.
-Menambahkan deskripsi Endless ekosistem
-Commit ke-2: Endless mendukung para builder Web2 dan Web3.
-Menjelaskan dukungan Endless untuk builder
-Commit ke-3: Builder bisa klaim role eksklusif di Guild.
-Menambahkan info role eksklusif untuk builder
-Commit ke-4: Endless membantu membangun masa depan desentralisasi.
-Tambahan penjelasan visi Endless
-Commit ke-5: Ekosistem Endless terus tumbuh bersama komunitas global.
-Menambahkan informasi tentang komunitas global
-Commit ke-6: Endless fokus pada inovasi berkelanjutan.
-Menambahkan fokus inovasi Endless
-Commit ke-7: Guild memberikan akses channel privat builder.
-Info tambahan tentang akses Guild builder
-Commit ke-8: Endless terbuka untuk kontribusi dari siapa saja.
-Menambahkan nilai inklusif Endless
-Commit ke-9: Endless mendorong kolaborasi lintas ekosistem.
-Menjelaskan kolaborasi lintas ekosistem
-Commit ke-10: Bersama builder, Endless siap membentuk masa depan Web3.
-Commit terakhir untuk melengkapi 10 kontribusi
+1. commit Endless Officially Launches, Creating a New Chapter in Web3!
+
+2. commit Web3 Genesis Cloud - the world’s first decentralized cloud-based intelligent component protocol.
+
+3. commit Quickly build DApps with various components, no need to dive into blockchain tech.
+
+4. commit Support multi-chain development and cross-chain operations with Endless.
+
+5. commit AI-Web3 Integration: Endless combines advanced AI with blockchain seamlessly.
+
+6. commit Distributed computing platform with high scalability and load balancing.
+
+7. commit Decentralized storage ensures data sovereignty and privacy using ZKP + encryption.
+
+8. commit Endless uses IPFS, KV storage, AES-256, and SSS for secure key management.
+
+
+9. commit DApp Dev Platform with flexible and rich components for faster innovation.
+
+10. commit Relay network with global routing, hardware acceleration, and CDN integration.
+
+11. commit Endless: Build the next-generation Web3 applications with LEGO-level experience.
+
 

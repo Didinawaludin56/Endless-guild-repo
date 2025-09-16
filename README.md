@@ -19,6 +19,4 @@
 
 10. commit Relay network with global routing, hardware acceleration, and CDN integration.
 
-11. commit Endless: Build the next-generation Web3 applications with LEGO-level experience.
-
 
